@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jean-Baptiste THERY, freelance frontend developer specializing in Javascript, **React Js** and **Node Js**. Available in remote and in Béziers and Montpellier (France).
+My name is Jean-Baptiste THERY, freelance frontend developer specializing in Javascript, **Vue Js** and **Node Js**. Available in remote and in Béziers and Montpellier (France).
 
 ## About me
 
@@ -17,7 +17,5 @@ Available for freelance missions, only full remote in mainland France and overse
 @ [Web Site](https://flameapp.fr)
 
 @ [Malt](https://www.malt.fr/profile/jeanbaptistethery)
-
-@ [Linkedin](https://www.linkedin.com/in/jean-baptiste-thery/)
 
 @ jb.thery@flameapp.fr
