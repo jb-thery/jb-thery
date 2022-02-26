@@ -6,7 +6,7 @@ My name is Jean-Baptiste THERY, freelance frontend developer from Montpellier (F
 
 ### 🔥 "If I can dream it, I can do it" 🔥
 
-Passionate JavaScript / Typescript developer, I specialize in the development of Web and Mobile frontend applications.
+Passionate JavaScript / Typescript developer, I specialize in the development of Web and Mobile frontend applications with Svelte Js.
 
 Proactivity, listening, humility and communication are for me the keys to a successful collaboration. I have a strong need for accomplishment that I live through my passion, the code. Therefore I am not looking to work, I am looking to invest myself in the success of your projects.
 
