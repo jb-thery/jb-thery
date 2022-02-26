@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-My name is Jean-Baptiste THERY, freelance frontend developer specializing in Javascript, **Vue Js** and **Node Js**. Available in remote and in Béziers and Montpellier (France).
+My name is Jean-Baptiste THERY, freelance frontend developer from Montpellier (France).
 
 ## About me
 
 ### 🔥 "If I can dream it, I can do it" 🔥
 
-Passionate JavaScript / Typescript developer, I specialize in the development of Web and Mobile frontend applications with Vue Js and Node Js.
+Passionate JavaScript / Typescript developer, I specialize in the development of Web and Mobile frontend applications.
 
 Proactivity, listening, humility and communication are for me the keys to a successful collaboration. I have a strong need for accomplishment that I live through my passion, the code. Therefore I am not looking to work, I am looking to invest myself in the success of your projects.
 
