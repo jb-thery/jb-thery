@@ -14,8 +14,8 @@ Available for freelance missions, only full remote in mainland France and overse
 
 ## Contacts
 
-@ [Web Site](https://flameapp.fr)
+@ [Web Site](https://flameapp.studio)
 
 @ [Malt](https://www.malt.fr/profile/jeanbaptistethery)
 
-@ jb.thery@flameapp.fr
+@ jb.thery@flameapp.studio
