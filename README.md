@@ -10,7 +10,7 @@ My name is Jean-Baptiste Thery, I am a passionate and specialized freelance deve
 
 Proactivity, listening, humility and communication are key for me in a successful collaboration. I have a strong need for accomplishment that I live through my passion for code. Therefore, I am not looking for a job, but rather to invest myself in the success of your projects. 
 
-Available for freelance missions remotely anywhere in France, or in Montpellier.
+Available for freelance missions remotely anywhere in France, or in Hendaye.
 
 ## Contacts
 
