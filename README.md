@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jean-Baptiste THERY, freelance frontend developer from Montpellier (France).
+My name is Jean-Baptiste THERY, freelance frontend developer from Hendaye (France).
 
 ## About me
 
