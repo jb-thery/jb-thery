@@ -4,13 +4,15 @@ My name is Jean-Baptiste THERY, freelance frontend developer from Hendaye (Franc
 
 ## About me
 
-### 🔥 "If I can dream it, I can do it" 🔥
+### 🔥 " If I can dream it, I can do it." 🔥
 
-My name is Jean-Baptiste Thery, I am a passionate and specialized freelance developer in the development of Web and Mobile applications with technologies such as Flutter, React, Vue, Svelte and node for the backend. 
+Visit my website at **[www.flameapp.studio](http://www.flameapp.studio/)** to learn more about my work.
 
-Proactivity, listening, humility and communication are key for me in a successful collaboration. I have a strong need for accomplishment that I live through my passion for code. Therefore, I am not looking for a job, but rather to invest myself in the success of your projects. 
+My name is Jean-Baptiste Thery, and I am a passionate independent developer who specializes in creating web applications using the React and Node ecosystem for the backend.
 
-Available for freelance missions remotely anywhere in France, or in Hendaye.
+For me, proactivity, listening, humility, and communication are essential in a successful collaboration. I have a strong need for achievement, which I fulfill through my passion for coding.
+
+I am not currently seeking employment, but I am looking to invest myself in the success of your projects. I am available for full-time remote freelance work.
 
 ## Contacts
 
