@@ -1,17 +1,25 @@
-Hi 👋
+Hello, I’m Jean-Baptiste Thery, a **passionate freelance frontend developer** specializing in the creation of modern and high-performance web applications.
 
-I am Jean-Baptiste Thery, a **passionate** freelance frontend developer specializing in the design of modern and high-performance web applications. For me, coding is not just a job—it’s a true passion that I practice every day with enthusiasm.
-I love exploring new techniques, refining my skills, and pushing my limits to deliver ever more polished products.
+### Why work with me?
 
-• **React.js Expert**: Developing high-performance applications with Next.js, Redux, TypeScript, and TailwindCSS.
+I don’t just write code, I design tailor-made solutions optimized for your needs, with a strong focus on performance, quality, and user experience.
 
-• Proficient in Vue.js and Svelte: Ability to work on multi-framework projects and adapt to specific needs.
+Need a Proof of Concept in record time? I can also speed up the process and adapt to each project according to your requirements.
 
-• Technological Flexibility: I easily adapt to my clients’ tech stacks and quickly integrate new technologies.
+### My Expertise 🚀
 
-• Back-end Knowledge with Node.js: Experience with Strapi.js and Firebase for a full-stack approach.
+✅ **React.js Expert** – Development of web and mobile applications (SPA, PWA, SSR, Jamstack, Electron, e-commerce, SaaS, Proof of Concept, browser extensions, etc.).
 
-**I enjoy working in a team**, sharing my knowledge, and learning from others.
-**Kind and humble**, I constantly challenge myself to improve and provide the best for my clients.
+✅ Proficient in Vue.js and Svelte, Experience with large-scale projects.
 
-My goal: To create modern, maintainable, and scalable applications with a smooth and optimized user experience. I am fully committed to helping you achieve your goals—you **can count on me**.
+✅ Technological flexibility – Quick adaptation to existing stacks and continuous tech monitoring.
+ 
+✅ Full-stack approach – Skills in Node.js, Strapi.js, and Firebase for complete project management.
+
+### My Philosophy 🤝
+
+A successful project is built on strong synergy between all team members. I enjoy collaborating, sharing knowledge, and learning from others. Open-minded and humble, I constantly challenge myself to improve and provide the best to my clients.
+
+### My Goal 🎯
+
+To support you with dedication and expertise on the road to success. Reliable and committed, **you can count on me**.
