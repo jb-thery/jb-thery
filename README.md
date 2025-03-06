@@ -1,25 +1,26 @@
-Hello, I’m Jean-Baptiste Thery, a **passionate freelance frontend developer** specializing in the creation of modern and high-performance web applications.
+# Hi, I'm Jean-Baptiste Thery  
 
-### Why work with me?
+**Passionate Freelance Frontend Developer**  
+Specialized in building modern and high-performance web applications.
 
-I don’t just write code, I design tailor-made solutions optimized for your needs, with a strong focus on performance, quality, and user experience.
+## Why work with me?  
 
-Need a Proof of Concept in record time? I can also speed up the process and adapt to each project according to your requirements.
+I don’t just write code—I design tailored solutions optimized for your needs, with a strong focus on performance, quality, and user experience.  
 
-### My Expertise 🚀
+Need a **Proof of Concept** in record time? I can speed up the process and adapt to each project according to your requirements.  
 
-✅ **React.js Expert** – Development of web and mobile applications (SPA, PWA, SSR, Jamstack, Electron, e-commerce, SaaS, Proof of Concept, browser extensions, etc.).
+## My Expertise 🚀  
 
-✅ Proficient in Vue.js and Svelte, Experience with large-scale projects.
+✅ **Web Application Development** (SPA, PWA, Hybrid Mobile, SSR, Jamstack, Electron, e-commerce, SaaS, Proof of Concept, browser extensions…).  
 
-✅ Technological flexibility – Quick adaptation to existing stacks and continuous tech monitoring.
- 
-✅ Full-stack approach – Skills in Node.js, Strapi.js, and Firebase for complete project management.
+✅ **Proficiency in React.js, Vue.js, and Svelte**, with experience on large-scale projects.  
+✅ **Technological flexibility**: Rapid adaptation to existing stacks and continuous tech monitoring.  
+✅ **Full-Stack Approach**: Skills in Node.js, Strapi.js, and Firebase for comprehensive project management.  
 
-### My Philosophy 🤝
+## My Philosophy 🤝  
 
-A successful project is built on strong synergy between all team members. I enjoy collaborating, sharing knowledge, and learning from others. Open-minded and humble, I constantly challenge myself to improve and provide the best to my clients.
+A successful project is built on **effective synergy** between all team members. I love collaborating, sharing knowledge, and learning from others. **Kind and humble**, I constantly challenge myself to improve and deliver the best to my clients.  
 
-### My Goal 🎯
+## My Goal 🎯  
 
-To support you with dedication and expertise on the road to success. Reliable and committed, **you can count on me**.
+To support you with **commitment and expertise** in achieving your project’s success. **Reliable and dedicated**, you can count on me.  
