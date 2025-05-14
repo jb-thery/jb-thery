@@ -1,26 +1,37 @@
-# Hi, I'm Jean-Baptiste Thery  
+Hi, I’m Jean-Baptiste Thery, a **passionate senior full-stack developer specialized in the JavaScript ecosystem**.
+For the past 8 years, I’ve been helping startups and large companies design fast, scalable, and user-centric web applications.
 
-**Passionate Freelance Frontend Developer**  
-Specialized in building modern and high-performance web applications.
+### What I bring to the table
 
-## Why work with me?  
+• Product vision + technical expertise: I turn your ideas into turnkey solutions, optimized for performance and UX.
+• Fast delivery when needed: MVPs, POCs, or critical features delivered quickly.
+• Or a craftsmanship approach when it matters: clean code, solid architecture, testing, and long-term maintainability.
+• Smooth collaboration: I easily adapt to your workflows (Agile/Scrum, Kanban) and communicate transparently.
 
-I don’t just write code—I design tailored solutions optimized for your needs, with a strong focus on performance, quality, and user experience.  
+### Stack & specialties
 
-Need a **Proof of Concept** in record time? I can speed up the process and adapt to each project according to your requirements.  
+Front-end: React, Vue, Svelte, Astro.js, Next.js, Vite.js
+Back-end: Node.js, Hono.js, Strapi, SQL/NoSQL databases
+DevOps / Tooling: GitHub Actions · Docker · Vercel · Cloudflare · Firebase · Supabase · Heroku
 
-## My Expertise 
+### SaaS projects, mobile apps, web apps, blogs, landing pages, institutional websites, e-commerce, POCs, MVPs
 
-**Web Application Development** (SPA, PWA, Hybrid Mobile, SSR, Jamstack, Electron, e-commerce, SaaS, Proof of Concept, browser extensions…).  
+• SPA: ultra-smooth single-page apps with a mobile-like experience
+• SSR: server-side rendering for SEO & speed
+• Jamstack: static-first architecture + cloud services for blazing-fast websites
+• Mobile web apps: Ionic, React Native
+• PWA, Tauri, Electron: cross-platform desktop apps built with web technologies
+• Chrome extensions: add new features directly to your browser
 
-**Proficiency in React.js, Vue.js, and Svelte**, with experience on large-scale projects.  
-**Technological flexibility**: Rapid adaptation to existing stacks and continuous tech monitoring.  
-**Full-Stack Approach**: Skills in Node.js, Strapi.js, and Firebase for comprehensive project management.  
+### My philosophy
 
-## My Philosophy  
+A successful project relies on strong synergy between team members.
+I enjoy working collaboratively, sharing knowledge, and learning from others.
+Kind and humble, I constantly challenge myself to grow and deliver the best results for my clients.
 
-A successful project is built on **effective synergy** between all team members. I love collaborating, sharing knowledge, and learning from others. **Kind and humble**, I constantly challenge myself to improve and deliver the best to my clients.  
+### My commitment
 
-## My Goal 
+To support your project with dedication and expertise.
+Reliable and involved — you can count on me.
 
-To support you with **commitment and expertise** in achieving your project’s success. **Reliable and dedicated**, you can count on me.  
+Let’s talk about your project and bring it to life together!
