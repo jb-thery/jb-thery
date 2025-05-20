@@ -32,6 +32,6 @@ Kind and humble, I constantly challenge myself to grow and deliver the best resu
 ### My commitment
 
 To support your project with dedication and expertise.
-Reliable and involved — you can count on me.
+Reliable and involved you can count on me.
 
 Let’s talk about your project and bring it to life together!
