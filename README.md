@@ -1,37 +1,21 @@
-Hi, I’m Jean-Baptiste Thery, a **passionate senior full-stack developer specialized in the JavaScript ecosystem**.
-For the past 8 years, I’ve been helping startups and large companies design fast, scalable, and user-centric web applications.
+# Senior Full-Stack Developer
 
-### What I bring to the table
+Senior Full-Stack Developer in the JavaScript/TypeScript ecosystem, I've been helping startups and enterprise clients for **8 years** in designing their web applications.
 
-• Product vision + technical expertise: I turn your ideas into turnkey solutions, optimized for performance and UX.
-• Fast delivery when needed: MVPs, POCs, or critical features delivered quickly.
-• Or a craftsmanship approach when it matters: clean code, solid architecture, testing, and long-term maintainability.
-• Smooth collaboration: I easily adapt to your workflows (Agile/Scrum, Kanban) and communicate transparently.
+## Co-founder of WorkoutGen
 
-### Stack & specialties
+On the side, I co-founded **WorkoutGen**, a freemium fitness app powered by AI.
 
-Front-end: React, Vue, Svelte, Astro.js, Next.js, Vite.js
-Back-end: Node.js, Hono.js, Strapi, SQL/NoSQL databases
-DevOps / Tooling: GitHub Actions · Docker · Vercel · Cloudflare · Firebase · Supabase · Heroku
+**Our mission:** Make gym-based strength training accessible to everyone. Not just another free tool we're reinventing workout program generation through AI, combining training science with real user feedback.
 
-### SaaS projects, mobile apps, web apps, blogs, landing pages, institutional websites, e-commerce, POCs, MVPs
+### The Product
 
-• SPA: ultra-smooth single-page apps with a mobile-like experience
-• SSR: server-side rendering for SEO & speed
-• Jamstack: static-first architecture + cloud services for blazing-fast websites
-• Mobile web apps: Ionic, React Native
-• PWA, Tauri, Electron: cross-platform desktop apps built with web technologies
-• Chrome extensions: add new features directly to your browser
+- **Algorithmic engine + ML** that learns from user feedback not a ChatGPT wrapper, but a genuine physiological calculation system built from scratch
+- **Planning of progression cycles**, loads, and rest periods like an expert coach
+- **4 goals** (bulking, cutting, strength, general fitness), 500+ HD videos, flexible scheduling
+- **Multi-platform PWA**, gamification, 8 languages, one-click install without an App Store
+- **100% free with no ads**, monetized through premium AI Coach (real-time adaptation)
 
-### My philosophy
+Co-created with **Jeremy Tellier** (certified fitness instructor, former Paris firefighter), combining field expertise with technical rigor.
 
-A successful project relies on strong synergy between team members.
-I enjoy working collaboratively, sharing knowledge, and learning from others.
-Kind and humble, I constantly challenge myself to grow and deliver the best results for my clients.
-
-### My commitment
-
-To support your project with dedication and expertise.
-Reliable and involved you can count on me.
-
-Let’s talk about your project and bring it to life together!
+*Made in France* 🇫🇷
