@@ -1,5 +1,3 @@
-# Senior Full-Stack Developer
-
 Senior Full-Stack Developer in the JavaScript/TypeScript ecosystem, I've been helping startups and enterprise clients for **8 years** in designing their web applications.
 
 ## Co-founder of WorkoutGen
