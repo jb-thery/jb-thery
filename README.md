@@ -6,11 +6,11 @@ Senior Full-Stack Developer in the JavaScript/TypeScript ecosystem, I've been he
 
 Alongside this, I co-created **WorkoutGen**, the AI web application that replicates the logic of an expert coach. 24-month programs, cycle-based progression, and an AI coach that adapts your sessions in real time. The Machine Learning engine learns from feedback to continuously improve.
 
-### Our Mission
+#### Our Mission
 
 Make gym-based weight training accessible to everyone by reinventing program generation through AI, combining training science with real feedback.
 
-### The Product
+#### The Product
 
 **Algorithmic Engine + ML** that learns from user feedback, custom physiological calculations, no generic generation.
 
