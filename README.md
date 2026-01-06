@@ -1,8 +1,8 @@
-# Senior Full-Stack Developer Freelance
+## Senior Full-Stack Developer Freelance
 
 Senior Full-Stack Developer in the JavaScript/TypeScript ecosystem, I've been helping startups and large companies design their web applications for 8 years.
 
-# WorkoutGen — Co-founder
+## WorkoutGen — Co-founder
 
 Alongside this, I co-created **WorkoutGen**, the AI web application that replicates the logic of an expert coach. 24-month programs, cycle-based progression, and an AI coach that adapts your sessions in real time. The Machine Learning engine learns from feedback to continuously improve.
 
