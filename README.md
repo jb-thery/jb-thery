@@ -1,19 +1,25 @@
-Senior Full-Stack Developer in the JavaScript/TypeScript ecosystem, I've been helping startups and enterprise clients for **8 years** in designing their web applications.
+# Senior Full-Stack Developer Freelance
 
-## Co-founder of WorkoutGen
+Senior Full-Stack Developer in the JavaScript/TypeScript ecosystem, I've been helping startups and large companies design their web applications for 8 years.
 
-On the side, I co-founded **WorkoutGen**, a freemium fitness app powered by AI.
+## WorkoutGen — Co-founder
 
-**Our mission:** Make gym-based strength training accessible to everyone. Not just another free tool we're reinventing workout program generation through AI, combining training science with real user feedback.
+Alongside this, I co-created **WorkoutGen**, the AI web application that replicates the logic of an expert coach. 24-month programs, cycle-based progression, and an AI coach that adapts your sessions in real time. The Machine Learning engine learns from feedback to continuously improve.
+
+### Our Mission
+
+Make gym-based weight training accessible to everyone by reinventing program generation through AI, combining training science with real feedback.
 
 ### The Product
 
-- **Algorithmic engine + ML** that learns from user feedback not a ChatGPT wrapper, but a genuine physiological calculation system built from scratch
-- **Planning of progression cycles**, loads, and rest periods like an expert coach
-- **4 goals** (bulking, cutting, strength, general fitness), 500+ HD videos, flexible scheduling
-- **Multi-platform PWA**, gamification, 8 languages, one-click install without an App Store
-- **100% free with no ads**, monetized through premium AI Coach (real-time adaptation)
+**Algorithmic Engine + ML** that learns from user feedback, custom physiological calculations, no generic generation.
 
-Co-created with **Jeremy Tellier** (certified fitness instructor, former Paris firefighter), combining field expertise with technical rigor.
+**Intelligent Planning:** progression cycles, loads and rest periods calculated like an expert coach. 4 goals (muscle building, weight loss, strength, fitness), 500+ HD videos filmed by us, flexible scheduling.
+
+**Features:** TikTok-style video player, training organization and schedule management, multi-platform PWA, gamification, 8 languages, one-click installation.
+
+**Pricing:** Free with no ads, premium AI Coach option for real-time adaptation.
+
+Co-created with **Jeremy Tellier** (BPJEPS certified, former Paris firefighter), combining field expertise with technical rigor.
 
 *Made in France* 🇫🇷
