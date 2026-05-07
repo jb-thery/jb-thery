@@ -1,25 +1,32 @@
-## Senior Full-Stack Developer Freelance
+I help tech startups and enterprise clients deliver complete digital products, from architecture to production. **One point of contact for front-end, back-end, API, and database.**
 
-Senior Full-Stack Developer in the JavaScript/TypeScript ecosystem, I've been helping startups and large companies design their web applications for 8 years.
+I'm deeply passionate about my work. After **9 years of experience** and **80+ missions completed on Malt** with a **5-star average**, I've had the opportunity to work with clients such as Sciences Po, Decathlon, Suzuki France, Oney (Banque Accord), Leadbay (Y Combinator F25), Stellia.ai (École Polytechnique), Sweez, and HelloPrêt.
 
-## WorkoutGen — Co-founder
+**TypeScript Stack:** React, Svelte, Angular, Vue.js, Next.js, Astro
+Node.js, Fastify, Strapi, PostgreSQL, Supabase, Firebase.
 
-Alongside this, I co-created **WorkoutGen**, the AI web application that replicates the logic of an expert coach. 24-month programs, cycle-based progression, and an AI coach that adapts your sessions in real time. The Machine Learning engine learns from feedback to continuously improve.
+I integrate seamlessly into your existing codebase or help you choose the right architecture. I'm comfortable working with all types of technologies and can get up to speed very quickly — even with stacks I've never used before.
 
-#### Our Mission
+I have a strong command of **native AI workflows**, which I integrate throughout my development process. With me, you get the experience of a **senior developer with 9 years of practice**, combined with AI-assisted development — protecting you from the risks that come with non-professional use of these tools. 9 years of code means every line is reviewed, tested, and integrated into a robust architecture. **Faster delivery, controlled technical debt, sustained quality.**
 
-Make gym-based weight training accessible to everyone by reinventing program generation through AI, combining training science with real feedback.
+I also designed and built **WorkoutGen**, my own SaaS currently in production:
+An AI-powered personalized fitness app with **10,000+ users after 4 months**, 8 languages, 67 countries, payments, analytics, and monitoring. I handle the entire technical side — from idea to deployment — as well as ongoing maintenance.
 
-#### The Product
+### Highlights
 
-**Algorithmic Engine + ML** that learns from user feedback, custom physiological calculations, no generic generation.
+- **Sciences Po** — thematic mapping (SvelteKit, DuckDB, Deck.gl) + multi-framework Design System
+- **Leadbay (YC F25)** — SaaS built from scratch, hybrid web and mobile app
+- **Decathlon** — Vitaminn Design System in Svelte
+- **Suzuki France** — back-office, showcase website, 1-year maintenance
+- **Oney (Banque Accord)** — landing pages and information pages
+- **Stellia.ai** — React dashboard for AI corpus analysis
+- **HelloPrêt** — full redesign with Astro, Strapi CMS, PostgreSQL
 
-**Intelligent Planning:** progression cycles, loads and rest periods calculated like an expert coach. 4 goals (muscle building, weight loss, strength, fitness), 500+ HD videos filmed by us, flexible scheduling.
+> *"Instrumental in getting our frontend off the ground, with zeal, unwavering dedication, and unparalleled reliability."*
+>
+> — **Milan Stankovic, CTO Leadbay (YC F25)**
 
-**Features:** TikTok-style video player, training organization and schedule management, multi-platform PWA, gamification, 8 languages, one-click installation.
 
-**Pricing:** Free with no ads, premium AI Coach option for real-time adaptation.
 
-Co-created with **Jeremy Tellier** (BPJEPS certified, former Paris firefighter), combining field expertise with technical rigor.
-
-*Made in France* 🇫🇷
+📍 Based in Paris. Available fully remote.
+📩 jb.thery@jcode.works
