@@ -29,6 +29,5 @@ Sciences Po · Decathlon · Suzuki France · Oney (Banque Accord) · Leadbay (YC
 #### Get in touch
 
 📩 jb.thery@jcode.works
-🌐 [jcode.works](https://jcode.works)
 💼 [LinkedIn](https://www.linkedin.com/in/jean-baptistethery)
 🥕 [Malt](https://www.malt.fr/profile/jeanbaptistethery)
