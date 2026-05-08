@@ -1,9 +1,8 @@
 ### Hi, I'm Jean-Baptiste 👋
 
 Senior fullstack freelance developer with 9 years of experience.
-Available for hire — French and English-speaking markets.
+Available for hire French and English-speaking markets.
 
----
 
 #### What I do
 
