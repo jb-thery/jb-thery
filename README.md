@@ -1,32 +1,34 @@
-I help tech startups and enterprise clients deliver complete digital products, from architecture to production. **One point of contact for front-end, back-end, API, and database.**
+### Hi, I'm Jean-Baptiste 👋
 
-I'm deeply passionate about my work. After **9 years of experience** and **80+ missions completed on Malt** with a **5-star average**, I've had the opportunity to work with clients such as Sciences Po, Decathlon, Suzuki France, Oney (Banque Accord), Leadbay (Y Combinator F25), Stellia.ai (École Polytechnique), Sweez, and HelloPrêt.
+Senior fullstack freelance developer with 9 years of experience.
+Available for hire — French and English-speaking markets.
 
-**TypeScript Stack:** React, Svelte, Angular, Vue.js, Next.js, Astro
-Node.js, Fastify, Strapi, PostgreSQL, Supabase, Firebase.
+---
 
-I integrate seamlessly into your existing codebase or help you choose the right architecture. I'm comfortable working with all types of technologies and can get up to speed very quickly — even with stacks I've never used before.
+#### What I do
 
-I have a strong command of **native AI workflows**, which I integrate throughout my development process. With me, you get the experience of a **senior developer with 9 years of practice**, combined with AI-assisted development — protecting you from the risks that come with non-professional use of these tools. 9 years of code means every line is reviewed, tested, and integrated into a robust architecture. **Faster delivery, controlled technical debt, sustained quality.**
+I design and ship complete web applications for startups and enterprises, from architecture to production. I work across the full stack — frontend, backend, infrastructure — and integrate AI as a functional layer when it adds real value.
 
-I also designed and built **WorkoutGen**, my own SaaS currently in production:
-An AI-powered personalized fitness app with **10,000+ users after 4 months**, 8 languages, 67 countries, payments, analytics, and monitoring. I handle the entire technical side — from idea to deployment — as well as ongoing maintenance.
+I take on engagements as the sole technical owner of a product or as a senior contributor inside an existing team. No management role.
 
-### Highlights
+#### Stack
 
-- **Sciences Po** — thematic mapping (SvelteKit, DuckDB, Deck.gl) + multi-framework Design System
-- **Leadbay (YC F25)** — SaaS built from scratch, hybrid web and mobile app
-- **Decathlon** — Vitaminn Design System in Svelte
-- **Suzuki France** — back-office, showcase website, 1-year maintenance
-- **Oney (Banque Accord)** — landing pages and information pages
-- **Stellia.ai** — React dashboard for AI corpus analysis
-- **HelloPrêt** — full redesign with Astro, Strapi CMS, PostgreSQL
+**Core:** TypeScript · React · Next.js · Svelte / SvelteKit · Node.js · Fastify · PostgreSQL · Drizzle
+**Also:** Vue · Angular · Astro · Strapi · Supabase · Firebase
+**AI layer:** Claude API · OpenAI · LLM · RAG · Agents · MCP · n8n
+**Workflow:** Claude Code · Cursor · Vitest · Playwright · GitHub Actions
 
-> *"Instrumental in getting our frontend off the ground, with zeal, unwavering dedication, and unparalleled reliability."*
->
-> — **Milan Stankovic, CTO Leadbay (YC F25)**
+#### Selected clients
 
+Sciences Po · Decathlon · Suzuki France · Oney (Banque Accord) · Leadbay (YC F25) · Stellia.ai (incubated at École Polytechnique) · HelloPrêt
 
+#### Currently building
 
-📍 Based in Paris. Available fully remote.
+[**WorkoutGen**](https://workoutgen.app) — AI-powered personalized training SaaS. 10,000+ users across 67 countries, 8 languages. Sole technical owner: architecture, frontend, backend, LLM integration, ML pipeline, infra, security, monitoring.
+
+#### Get in touch
+
 📩 jb.thery@jcode.works
+🌐 [jcode.works](https://jcode.works)
+💼 [LinkedIn](https://www.linkedin.com/in/jean-baptistethery)
+🥕 [Malt](https://www.malt.fr/profile/jeanbaptistethery)
