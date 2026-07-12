@@ -25,7 +25,7 @@ Sciences Po · Decathlon · Suzuki France · Oney (Banque Accord) · Leadbay (YC
 
 [**WorkoutGen**](https://workoutgen.app) — AI-powered personalized training SaaS. 30,000+ users across 67 countries, 8 languages. Sole technical owner: architecture, frontend, backend, LLM integration, ML pipeline, infra, security, monitoring.
 
-[**Ragmir**](https://ragmir.jcode.works) — Local-first RAG that lets AI agents reason over your confidential documents (cahier des charges, specs, technical docs) so you make better decisions inside the code. Open-source library, CLI, and MCP server. Sovereign by design: everything stays local, nothing leaks.
+[**Ragmir**](https://ragmir.com) — Local-first RAG that lets AI agents reason over your confidential documents (cahier des charges, specs, technical docs) so you make better decisions inside the code. Open-source library, CLI, and MCP server. Sovereign by design: everything stays local, nothing leaks.
 
 #### Get in touch
 
