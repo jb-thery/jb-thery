@@ -43,8 +43,24 @@ My open-source work is published through
 
 ## Core technologies
 
-TypeScript · React · Next.js · Svelte / SvelteKit · Node.js ·
-Java / Spring Boot · Hono · Astro · PostgreSQL · Cloudflare · CI/CD
+**Frontend:** TypeScript · React · Next.js · Svelte / SvelteKit · Astro ·
+Tailwind CSS
+
+**Backend and data:** Node.js · Hono · Java / Spring Boot · PostgreSQL ·
+Drizzle ORM · REST / OpenAPI
+
+**Cloud and delivery:** Cloudflare · Vercel · Docker · GitHub Actions · CI/CD
+
+**Quality:** Vitest · Playwright · Biome · automated testing and code review
+
+## Tools and workflow
+
+- **Editor and terminal:** Zed · cmux · Oh My Zsh
+- **AI engineering:** Claude Code · Codex · ZCode · Hermes Agents · Ollama
+  (offline models) · Wispr Flow
+- **Product and design:** Notion · Figma
+- **Platforms and delivery:** macOS · Ubuntu Linux · Git Flow
+- **Current focus soundtrack:** [lo-fi playlist](https://www.youtube.com/watch?v=sF80I-TQiW0&list=RDsF80I-TQiW0&start_radio=1&t=8800s)
 
 ## Let's work together
 
