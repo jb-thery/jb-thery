@@ -56,7 +56,8 @@ Tailwind CSS
 **Backend and data:** Node.js · Hono · Java / Spring Boot · PostgreSQL ·
 Drizzle ORM · REST / OpenAPI
 
-**Cloud and delivery:** Cloudflare · Vercel · Docker · GitHub Actions · CI/CD
+**Cloud and delivery:** Cloudflare · Vercel · Fly.io · Docker · GitHub Actions ·
+CI/CD
 
 **Quality:** Vitest · Playwright · Biome · automated testing and code review
 
