@@ -9,6 +9,13 @@ production.
 **Selected clients:** Sciences Po · Decathlon · Suzuki · Oney · Leadbay
 (Y Combinator F25) · Stellia.ai · HelloPrêt
 
+Technology, software engineering and AI are more than my profession: they are
+what I genuinely love exploring, learning and building with every day. That
+curiosity keeps me hands-on, continuously improving and fully invested in the
+quality and impact of what I deliver.
+
+> “If I can dream it, I can do it.”
+
 ## How I help
 
 - Build or modernize a SaaS product or business application
