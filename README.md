@@ -1,6 +1,6 @@
 # Jean-Baptiste Théry
 
-Senior Freelance Full-Stack Developer · 9 years of experience · 80+ projects
+**Passionate** Senior Freelance Full-Stack Developer · 9 years of experience · 80+ projects
 
 I help product teams, IT departments and digital leaders design, modernize
 and strengthen SaaS products and business applications, from discovery to
