@@ -1,80 +1,105 @@
-# Jean-Baptiste Théry
+# Jean-Baptiste Thery
 
-**Passionate** Senior Freelance Full-Stack Developer · 9 years of experience · 80+ projects
+**Senior full-stack freelance developer** · web and mobile applications · fully remote ·
+[jcode.works](https://jcode.works)
 
-I help product teams, IT departments and digital leaders design, modernize
-and strengthen SaaS products and business applications, from discovery to
-production.
+I build, take over and improve web and mobile applications for product teams, from the first
+scope to production. Developer since 2016, freelance since 2019, 80+ projects delivered. My
+engineering habits were formed on projects delivered before AI coding tools; since 2023 I work
+with coding agents, keep the architecture decisions, and review and test every change before
+delivery.
 
-**Selected clients:** Sciences Po · Decathlon · Suzuki · Oney · Leadbay
-(Y Combinator F25) · Stellia.ai · HelloPrêt
+**Clients include** Sciences Po · Decathlon · Suzuki France · Oney · Leadbay (Y Combinator F25) ·
+Stellia.ai · HelloPrêt · Sweez · Biodiv-Wind
 
-Technology, software engineering and AI are more than my profession: they are
-what I genuinely love exploring, learning and building with every day. That
-curiosity keeps me hands-on, continuously improving and fully invested in the
-quality and impact of what I deliver.
+**Rated 5.0 out of 5** across 47 end-of-project reviews on
+[Malt](https://www.malt.fr/profile/jeanbaptistethery) (October 2026).
 
-> “If I can dream it, I can do it.”
+> “I strongly recommend working with JB. He was instrumental in getting our frontend off the
+> ground, handling everything with zeal, unwavering dedication, and unparalleled reliability.”
+> Milan Stankovic, Co-founder & CTO, Leadbay (YC F25)
 
-## How I help
+## How I can help
 
-- Build or modernize a SaaS product or business application
-- Design maintainable, scalable full-stack architectures
-- Develop complex frontends, design systems and data visualizations
-- Integrate APIs, authentication, data, cloud infrastructure, tests and CI/CD
-- Join a product team as an autonomous senior contributor
+- **Join your product team** as a senior developer: React, Next.js, Svelte, Node.js, Java /
+  Spring Boot
+- **Build a web app** from an idea, a prototype or an MVP to a product that holds up in
+  production, with iOS and Android apps when it needs them
+- **Take over an existing application**: a fixed-price assessment first, then prioritised
+  repairs, modernisation and maintenance
+- **Add AI features** to your product: an assistant, search with sources, agents that act
+  within the limits you set
+- **Build an MCP server** so AI agents can use your product, with scoped permissions and tested
+  tools
+- **Set up AI-assisted development** in your team: project rules, cited context, review and
+  tests
+- **Technical and AI consulting**: architecture and code reviews, written recommendations
 
-## AI-augmented engineering
+Services, terms and case studies: [jcode.works/freelance](https://jcode.works/freelance/) ·
+in French: [jcode.works/fr/freelance](https://jcode.works/fr/freelance/)
 
-I use generative AI as an engineering multiplier for context retrieval,
-impact analysis, code review, testing, documentation and repetitive tasks.
-These workflows remain governed by architecture standards, security checks,
-automated tests and human review.
+## Selected client work
 
-## Products and open source
+- **Sciences Po** (2025–26, via RECSI Group): Khartis V3, a thematic mapping app built from
+  scratch that processes millions of rows in the browser (SvelteKit, DuckDB-WASM, WebGL); the
+  institutional design system as main developer (StencilJS Web Components for React and
+  Angular); the foundation of an academic portal with another developer (Java 25, Spring Boot 4,
+  Next.js 16).
+- **Leadbay**, Y Combinator F25 (2023–25): the complete frontend built from scratch, web and
+  hybrid iOS and Android app, with full technical autonomy for 21 months (React, Redux, Ionic,
+  Cypress).
+- **Sweez** (2023): the frontend of a real-time AI meeting assistant (React, Next.js, WebSocket,
+  GraphQL).
+- **HelloPrêt** (2023): full modernisation of a mortgage simulation platform (Astro, Svelte,
+  Strapi, PostgreSQL).
+- **Stellia.ai** (2022–23): a test-driven dashboard for AI document analysis (React, GraphQL,
+  Vitest, Cypress).
+- **Decathlon** (2022): Svelte components for the Vitamin design system.
+- **Suzuki France** (2021–22): the national website and the dealer-site platform, frontend
+  ownership and backend work in the team (React, Symfony, Twig).
 
-### [WorkoutGen](https://workoutgen.app)
+## Products by jCode
 
-A sports SaaS available in 9 languages with more than 27,000 registered users.
-I co-founded the product and lead its full-stack architecture, development,
-cloud infrastructure, quality and operations.
+- **[WorkoutGen](https://workoutgen.app)**: a fitness app I co-founded and run as sole technical
+  owner, on the web, the App Store, Google Play and the Microsoft Store: 46,000+ members and
+  9 languages (workoutgen.app, October 2026). React 19, Hono on Cloudflare Workers, D1,
+  Capacitor.
+- **[Ragmir](https://ragmir.com)**: an open-source (AGPL-3.0) TypeScript library, CLI and MCP
+  server that gives coding agents such as Claude Code and Codex cited context from a project's
+  code and documents, local by default.
+  [Source](https://github.com/jcode-works/jcode-ragmir) ·
+  [npm](https://www.npmjs.com/package/@jcode.labs/ragmir)
 
-### [Ragmir](https://ragmir.com)
+My open-source work is published through [jCode](https://github.com/jcode-works), my company's
+GitHub organisation.
 
-An open-source, local-first RAG solution that gives development teams reliable,
-cited project context through a TypeScript library, CLI and MCP server.
-[View the source code](https://github.com/jcode-works/jcode-ragmir).
+## How I work with AI
 
-My open-source work is published through
-[jCode Works](https://github.com/jcode-works), my GitHub organization.
+I work with Claude Code, Codex and Cursor, with project instructions, a Ragmir knowledge base of
+the repository queried over MCP, and MCP tools I build. Agents work inside those rules; I keep
+the architecture decisions, and every change is reviewed and tested before delivery. Details:
+[jcode.works/ai-usage](https://jcode.works/ai-usage/).
 
-## Core technologies
+## Stack
 
-**Frontend:** TypeScript · React · Next.js · Svelte / SvelteKit · Astro ·
-Tailwind CSS
+**Frontend:** TypeScript · React · Next.js · Svelte / SvelteKit · Astro · Tailwind CSS ·
+Storybook · Web Components
 
-**Backend and data:** Node.js · Hono · Java / Spring Boot · PostgreSQL ·
-Drizzle ORM · REST / OpenAPI
+**Backend and data:** Node.js · Hono · Java / Spring Boot · Symfony · PostgreSQL · Oracle ·
+Drizzle ORM · REST · GraphQL
 
-**Cloud and delivery:** Cloudflare · Vercel · Fly.io · Docker · GitHub Actions ·
-CI/CD
+**Cloud and delivery:** Cloudflare Workers · Docker · GitHub Actions · GitLab CI/CD
 
-**Quality:** Vitest · Playwright · Biome · automated testing and code review
+**Quality:** Vitest · Cypress · Playwright · Biome · automated tests and code review
 
-## Tools and workflow
+**AI:** Claude Code · Codex · Cursor · MCP · RAG · LLM integration
 
-- **Editor and terminal:** Zed · cmux · Oh My Zsh
-- **AI engineering:** Claude Code · Codex · ZCode · Hermes Agents · Ollama
-  (offline models) · Wispr Flow
-- **Product and design:** Notion · Figma
-- **Platforms and delivery:** macOS · Ubuntu Linux · Git Flow
-- **Current focus soundtrack:** [lo-fi playlist](https://www.youtube.com/watch?v=sF80I-TQiW0&list=RDsF80I-TQiW0&start_radio=1&t=8800s)
+## Work with me
 
-## Let's work together
+Fully remote, in English or French, through EURL jCode, registered in Paris.
 
-Available fully remote for engagements with enterprise clients, established
-SMEs, IT services firms, startups and scale-ups.
-
-[Email](mailto:jb.thery@jcode.works) ·
+[jcode.works](https://jcode.works) · [Email](mailto:jb.thery@jcode.works) ·
 [LinkedIn](https://www.linkedin.com/in/jean-baptiste-thery) ·
 [Malt](https://www.malt.fr/profile/jeanbaptistethery)
+
+> “If I can dream it, I can do it.”
