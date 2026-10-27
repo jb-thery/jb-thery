@@ -1,13 +1,12 @@
 # Jean-Baptiste Thery
 
 **Senior full-stack TypeScript freelance developer** · web and mobile applications · fully remote ·
-[jcode.works](https://jcode.works)
+open to new engagements · [jcode.works](https://jcode.works)
 
 I build, take over and improve web and mobile applications for product teams, from the first
 scope to production. TypeScript is my main language, frontend and backend. Developer since
-2016, freelance since 2019, 80+ projects delivered. My engineering habits were formed on projects delivered before AI coding tools; since 2023 I work
-with coding agents, keep the architecture decisions, and review and test every change before
-delivery.
+2016, freelance since 2019, 80+ projects delivered for institutions, large companies and
+startups.
 
 **Clients include** Sciences Po · Decathlon · Suzuki France · Oney · Leadbay (Y Combinator F25) ·
 Stellia.ai · HelloPrêt · Sweez · Biodiv-Wind
@@ -25,15 +24,12 @@ Stellia.ai · HelloPrêt · Sweez · Biodiv-Wind
   Next.js, Svelte, Node.js), plus Java / Spring Boot
 - **Build a web app** from an idea, a prototype or an MVP to a product that holds up in
   production, with iOS and Android apps when it needs them
-- **Take over an existing application**: a fixed-price assessment first, then prioritised
-  repairs, modernisation and maintenance
-- **Add AI features** to your product: an assistant, search with sources, agents that act
-  within the limits you set
-- **Build an MCP server** so AI agents can use your product, with scoped permissions and tested
-  tools
-- **Set up AI-assisted development** in your team: project rules, cited context, review and
-  tests
-- **Technical and AI consulting**: architecture and code reviews, written recommendations
+- **Take over an existing application**, AI-generated code included: a fixed-price assessment
+  first, then prioritised repairs, modernisation and maintenance
+- **Add AI to your product**: an assistant, search with sources, agents that act within the
+  limits you set, MCP servers so AI agents can use your product
+- **Technical consulting**: architecture and code reviews, tooling and AI choices, written
+  recommendations
 
 Services, terms and case studies: [jcode.works/freelance](https://jcode.works/freelance/) ·
 in French: [jcode.works/fr/freelance](https://jcode.works/fr/freelance/)
@@ -60,7 +56,7 @@ in French: [jcode.works/fr/freelance](https://jcode.works/fr/freelance/)
 
 ## Products by jCode
 
-- **[WorkoutGen](https://workoutgen.app)**: a fitness app I co-founded and run as sole technical
+- **[WorkoutGen](https://workoutgen.app)**: a fitness app I co-founded and built as its sole technical
   owner, on the web, the App Store, Google Play and the Microsoft Store: 46,000+ members and
   9 languages (workoutgen.app, October 2026). React 19, Hono on Cloudflare Workers, D1,
   Capacitor.
@@ -73,12 +69,13 @@ in French: [jcode.works/fr/freelance](https://jcode.works/fr/freelance/)
 My open-source work is published through [jCode](https://github.com/jcode-works), my company's
 GitHub organisation.
 
-## How I work with AI
+## How I use AI
 
-I work with Claude Code, Codex and Cursor, with project instructions, a Ragmir knowledge base of
-the repository queried over MCP, and MCP tools I build. Agents work inside those rules; I keep
-the architecture decisions, and every change is reviewed and tested before delivery. Details:
-[jcode.works/ai-usage](https://jcode.works/ai-usage/).
+My engineering habits (architecture, tests, code review, careful releases) were formed before AI
+coding tools. I use coding agents such as Claude Code and Codex within each client's rules, with
+project instructions and cited context from a Ragmir knowledge base. I keep the architecture
+decisions, and every change is reviewed and tested before delivery. My rules for AI tools on
+client code: [jcode.works/ai-usage](https://jcode.works/ai-usage/).
 
 ## Stack
 
@@ -96,7 +93,8 @@ Drizzle ORM · REST · GraphQL
 
 ## Work with me
 
-Fully remote, in English or French, through EURL jCode, registered in Paris.
+Open to new freelance engagements, fully remote, in English or French, through EURL jCode,
+registered in Paris.
 
 [jcode.works](https://jcode.works) · [Email](mailto:jb.thery@jcode.works) ·
 [LinkedIn](https://www.linkedin.com/in/jean-baptiste-thery) ·
