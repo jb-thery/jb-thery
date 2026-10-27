@@ -1,11 +1,11 @@
 # Jean-Baptiste Thery
 
-**Senior full-stack freelance developer** · web and mobile applications · fully remote ·
+**Senior full-stack TypeScript freelance developer** · web and mobile applications · fully remote ·
 [jcode.works](https://jcode.works)
 
 I build, take over and improve web and mobile applications for product teams, from the first
-scope to production. Developer since 2016, freelance since 2019, 80+ projects delivered. My
-engineering habits were formed on projects delivered before AI coding tools; since 2023 I work
+scope to production. TypeScript is my main language, frontend and backend. Developer since
+2016, freelance since 2019, 80+ projects delivered. My engineering habits were formed on projects delivered before AI coding tools; since 2023 I work
 with coding agents, keep the architecture decisions, and review and test every change before
 delivery.
 
@@ -21,8 +21,8 @@ Stellia.ai · HelloPrêt · Sweez · Biodiv-Wind
 
 ## How I can help
 
-- **Join your product team** as a senior developer: React, Next.js, Svelte, Node.js, Java /
-  Spring Boot
+- **Join your product team** as a senior developer: TypeScript across the stack (React,
+  Next.js, Svelte, Node.js), plus Java / Spring Boot
 - **Build a web app** from an idea, a prototype or an MVP to a product that holds up in
   production, with iOS and Android apps when it needs them
 - **Take over an existing application**: a fixed-price assessment first, then prioritised
