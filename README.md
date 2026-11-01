@@ -1,12 +1,13 @@
 # Jean-Baptiste Thery
 
-**Senior full-stack TypeScript freelance developer** · web and mobile applications · fully remote ·
+**Senior full-stack TypeScript & AI freelance developer** · 10 years of web development · web
+and mobile applications with AI features (LLM integration, agents, RAG, MCP) · fully remote ·
 open to new engagements · [jcode.works](https://jcode.works)
 
 I build, take over and improve web and mobile applications for product teams, from the first
-scope to production. TypeScript is my main language, frontend and backend. Developer since
-2016, freelance since 2019, with 14 client projects for institutions, large companies and
-startups.
+scope to production. TypeScript is my main language, frontend and backend. Ten years of web
+development since 2016, seven of them freelance, across 14 client projects for institutions,
+large companies and startups.
 
 **Clients include** Sciences Po · Decathlon · Suzuki France · Oney · Leadbay (Y Combinator F25) ·
 Stellia.ai · HelloPrêt · Sweez · Biodiv-Wind
@@ -36,8 +37,9 @@ in French: [jcode.works/fr/freelance](https://jcode.works/fr/freelance/)
 
 ## Selected client work
 
-- **Sciences Po** (2025–26, via RECSI Group): Khartis V3, a thematic mapping app built from
-  scratch that processes millions of rows in the browser (SvelteKit, DuckDB-WASM, WebGL); the
+- **Sciences Po** (2025–26, via RECSI Group): Khartis V3, a complete rewrite of the thematic mapping
+  app designed by the Cartography Lab, which I developed: millions of rows processed in the
+  browser (SvelteKit, DuckDB-WASM, WebGL); the
   institutional design system as main developer (StencilJS Web Components for React and
   Angular); the foundation of an academic portal with another developer (Java 25, Spring Boot 4,
   Next.js 16).
@@ -56,10 +58,12 @@ in French: [jcode.works/fr/freelance](https://jcode.works/fr/freelance/)
 
 ## Products by jCode
 
-- **[WorkoutGen](https://workoutgen.app)**: a fitness app I co-founded and built as its sole technical
-  owner, on the web, the App Store, Google Play and the Microsoft Store: 51,000+ members and
-  9 languages (workoutgen.app, October 2026). React 19, Hono on Cloudflare Workers, D1,
-  Capacitor.
+- **[WorkoutGen](https://workoutgen.app)**: a personalised workout generator I co-founded and
+  built as its sole technical owner, on the web, the App Store, Google Play and the Microsoft
+  Store: 51,000+ members and 9 languages (workoutgen.app, October 2026). Its program engine is
+  deterministic, validated by a state-certified coach, and its coach adjusts volume and rest
+  after each finished session from objective signals, with no generative model. React 19, Hono
+  on Cloudflare Workers, D1, Capacitor.
 - **[Ragmir](https://ragmir.com)**: an open-source (AGPL-3.0) TypeScript library, CLI and MCP
   server that gives coding agents such as Claude Code and Codex cited context from a project's
   code and documents, local by default.
@@ -87,7 +91,7 @@ Drizzle ORM · REST · GraphQL
 
 **Cloud and delivery:** Cloudflare Workers · Docker · GitHub Actions · GitLab CI/CD
 
-**Quality:** Vitest · Cypress · Playwright · Biome · automated tests and code review
+**Quality:** Vitest · Cypress · Biome · automated tests and code review
 
 **AI:** Claude Code · Codex · Cursor · MCP · RAG · LLM integration
 
@@ -96,7 +100,7 @@ Drizzle ORM · REST · GraphQL
 Open to new freelance engagements, fully remote, in English or French, through EURL jCode,
 registered in Paris.
 
-[jcode.works](https://jcode.works) · [Email](mailto:jb.thery@jcode.works) ·
+[jcode.works](https://jcode.works) ·
 [LinkedIn](https://www.linkedin.com/in/jean-baptiste-thery) ·
 [Malt](https://www.malt.fr/profile/jeanbaptistethery)
 
