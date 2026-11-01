@@ -5,14 +5,14 @@ open to new engagements · [jcode.works](https://jcode.works)
 
 I build, take over and improve web and mobile applications for product teams, from the first
 scope to production. TypeScript is my main language, frontend and backend. Developer since
-2016, freelance since 2019, 80+ projects delivered for institutions, large companies and
+2016, freelance since 2019, with 14 client projects for institutions, large companies and
 startups.
 
 **Clients include** Sciences Po · Decathlon · Suzuki France · Oney · Leadbay (Y Combinator F25) ·
 Stellia.ai · HelloPrêt · Sweez · Biodiv-Wind
 
-**Rated 5.0 out of 5** across 47 end-of-project reviews on
-[Malt](https://www.malt.fr/profile/jeanbaptistethery) (October 2026).
+**Rated 5.0 out of 5** across 47 end-of-project ratings on
+[Malt](https://www.malt.fr/profile/jeanbaptistethery) (November 2026).
 
 > “I strongly recommend working with JB. He was instrumental in getting our frontend off the
 > ground, handling everything with zeal, unwavering dedication, and unparalleled reliability.”
