@@ -57,7 +57,7 @@ in French: [jcode.works/fr/freelance](https://jcode.works/fr/freelance/)
 ## Products by jCode
 
 - **[WorkoutGen](https://workoutgen.app)**: a fitness app I co-founded and built as its sole technical
-  owner, on the web, the App Store, Google Play and the Microsoft Store: 46,000+ members and
+  owner, on the web, the App Store, Google Play and the Microsoft Store: 51,000+ members and
   9 languages (workoutgen.app, October 2026). React 19, Hono on Cloudflare Workers, D1,
   Capacitor.
 - **[Ragmir](https://ragmir.com)**: an open-source (AGPL-3.0) TypeScript library, CLI and MCP
