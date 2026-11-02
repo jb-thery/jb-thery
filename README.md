@@ -39,8 +39,9 @@ in French: [jcode.works/fr/freelance](https://jcode.works/fr/freelance/)
 
 - **Sciences Po** (2025–26, via RECSI Group): Khartis V3, a complete rewrite of the thematic mapping
   app designed by the Cartography Lab, which I developed: millions of rows processed in the
-  browser (SvelteKit, DuckDB-WASM, WebGL); the institutional design system as its only
-  developer (StencilJS Web Components for React and Angular); the full-stack foundation of a
+  browser (SvelteKit, DuckDB-WASM, WebGL); the institutional design system with the UX team,
+  alone on its technical side (StencilJS Web Components for React and Angular); the full-stack
+  foundation of a
   confidential web application, built with another developer (Java 25, Spring Boot 4, MyBatis,
   Oracle, Next.js 16, React 19).
 - **Leadbay**, Y Combinator F25 (2023–25): the complete frontend built from scratch, web and
