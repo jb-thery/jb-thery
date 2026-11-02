@@ -39,10 +39,10 @@ in French: [jcode.works/fr/freelance](https://jcode.works/fr/freelance/)
 
 - **Sciences Po** (2025–26, via RECSI Group): Khartis V3, a complete rewrite of the thematic mapping
   app designed by the Cartography Lab, which I developed: millions of rows processed in the
-  browser (SvelteKit, DuckDB-WASM, WebGL); the
-  institutional design system as main developer (StencilJS Web Components for React and
-  Angular); the foundation of an academic portal with another developer (Java 25, Spring Boot 4,
-  Next.js 16).
+  browser (SvelteKit, DuckDB-WASM, WebGL); the institutional design system as main developer
+  (StencilJS Web Components for React and Angular); the full-stack foundation of a confidential
+  web application, built with another developer (Java 25, Spring Boot 4, MyBatis, Oracle,
+  Next.js 16, React 19).
 - **Leadbay**, Y Combinator F25 (2023–25): the complete frontend built from scratch, web and
   hybrid iOS and Android app, with full technical autonomy for 21 months (React, Redux, Ionic,
   Cypress).
@@ -52,9 +52,9 @@ in French: [jcode.works/fr/freelance](https://jcode.works/fr/freelance/)
   Strapi, PostgreSQL).
 - **Stellia.ai** (2022–23): a test-driven dashboard for AI document analysis (React, GraphQL,
   Vitest, Cypress).
-- **Decathlon** (2022): Svelte components for the Vitamin design system.
-- **Suzuki France** (2021–22): the national website and the dealer-site platform, frontend
-  ownership and backend work in the team (React, Symfony, Twig).
+- **Decathlon** (2022, via DPS Syneido): Svelte components for the Vitamin design system.
+- **Suzuki France** (2021–22, via DPS Syneido): the national website and the dealer-site
+  platform, frontend ownership and backend work in the team (React, Symfony, Twig).
 
 ## Products by jCode
 
@@ -103,5 +103,3 @@ registered in Paris.
 [jcode.works](https://jcode.works) ·
 [LinkedIn](https://www.linkedin.com/in/jean-baptiste-thery) ·
 [Malt](https://www.malt.fr/profile/jeanbaptistethery)
-
-> “If I can dream it, I can do it.”
