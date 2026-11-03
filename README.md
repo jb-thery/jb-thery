@@ -53,7 +53,8 @@ in French: [jcode.works/fr/freelance](https://jcode.works/fr/freelance/)
   Strapi, PostgreSQL).
 - **Stellia.ai** (2022–23): a test-driven dashboard for AI document analysis (React, GraphQL,
   Vitest, Cypress).
-- **Decathlon** (2022, via DPS Syneido): Svelte components for the Vitamin design system.
+- **Decathlon** (2022, via DPS Syneido): Svelte components for Vitamin, Decathlon's open-source
+  design system, three of them merged into its public repository in March 2022.
 - **Suzuki France** (2021–22, via DPS Syneido): the national website and the dealer-site
   platform, frontend ownership and backend work in the team (React, Symfony, Twig).
 
