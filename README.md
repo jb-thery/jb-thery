@@ -1,13 +1,12 @@
 # Jean-Baptiste Thery
 
-**Senior full-stack TypeScript & AI freelance developer** · 10 years of web development · web
+**Senior full-stack TypeScript & AI freelance developer** · 10 years of experience · web
 and mobile applications with AI features (LLM integration, agents, RAG, MCP) · fully remote ·
 open to new engagements · [jcode.works](https://jcode.works)
 
 I build, take over and improve web and mobile applications for product teams, from the first
-scope to production. TypeScript is my main language, frontend and backend. Ten years of web
-development since 2016, seven of them freelance, across 14 client projects for institutions,
-large companies and startups.
+scope to production. TypeScript is my main language, frontend and backend. Ten years of experience
+and 14 client projects for institutions, large companies and startups.
 
 **Clients include** Sciences Po · Decathlon · Suzuki France · Oney · Leadbay (Y Combinator F25) ·
 Stellia.ai · HelloPrêt · Sweez · Biodiv-Wind
