@@ -1,8 +1,8 @@
 # Jean-Baptiste Thery
 
-**Senior full-stack TypeScript & AI freelance developer** · 10 years of experience · web
-and mobile applications with AI features (LLM integration, agents, RAG, MCP) · fully remote ·
-open to new engagements · [jcode.works](https://jcode.works)
+**Senior full-stack TypeScript freelance developer** · 10 years of experience · web and mobile
+applications with AI features (LLM integration, agents, RAG, MCP) · agentic engineering ·
+fully remote · open to new engagements · [jcode.works](https://jcode.works)
 
 I build, take over and improve web and mobile applications for product teams, from the first
 scope to production. TypeScript is my main language, frontend and backend. Ten years of experience
@@ -77,10 +77,11 @@ GitHub organisation.
 ## How I use AI
 
 My engineering habits (architecture, tests, code review, careful releases) were formed before AI
-coding tools. I use coding agents such as Claude Code and Codex within each client's rules, with
-project instructions and cited context from a Ragmir knowledge base. I keep the architecture
-decisions, and every change is reviewed and tested before delivery. My rules for AI tools on
-client code: [jcode.works/ai-usage](https://jcode.works/ai-usage/).
+coding tools. Today I practise agentic engineering: I use coding agents such as Claude Code and
+Codex within each client's rules, with project instructions and cited context from a Ragmir
+knowledge base. I keep the architecture decisions, and every change is reviewed and tested before
+delivery. My method and my rules for AI tools on client code:
+[jcode.works/agentic-development](https://jcode.works/agentic-development/).
 
 ## Stack
 
@@ -94,7 +95,7 @@ Drizzle ORM · REST · GraphQL
 
 **Quality:** Vitest · Cypress · Biome · automated tests and code review
 
-**AI:** Claude Code · Codex · Cursor · MCP · RAG · LLM integration
+**AI:** Agentic engineering · Claude Code · Codex · Cursor · MCP · RAG · LLM integration
 
 ## Work with me
 
