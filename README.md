@@ -5,14 +5,10 @@ applications with AI features (LLM integration, agents, RAG, MCP) · fully remot
 engagements · [jcode.works](https://jcode.works)
 
 I build, take over and improve web and mobile applications for product teams, from the first
-scope to production. TypeScript is my main language, frontend and backend. Ten years of experience
-and 14 client projects for institutions, large companies and startups.
-
-**Clients include** Sciences Po · Decathlon · Suzuki France · Oney · Leadbay (Y Combinator F25) ·
-Stellia.ai · HelloPrêt · Sweez · Biodiv-Wind
-
-**Rated 5.0 out of 5** across 47 end-of-project ratings on
-[Malt](https://www.malt.fr/profile/jeanbaptistethery) (November 2026).
+scope to production, mainly in TypeScript, frontend and backend. Clients include Sciences Po,
+Decathlon, Suzuki France, Oney, Leadbay (Y Combinator F25), Stellia.ai and HelloPrêt. On
+[Malt](https://www.malt.fr/profile/jeanbaptistethery), my 47 end-of-project ratings average 5.0
+out of 5 (November 2026).
 
 > “I strongly recommend working with JB. He was instrumental in getting our frontend off the
 > ground, handling everything with zeal, unwavering dedication, and unparalleled reliability.”
@@ -20,88 +16,43 @@ Stellia.ai · HelloPrêt · Sweez · Biodiv-Wind
 
 ## How I can help
 
-- **Join your product team** as a senior developer: TypeScript across the stack (React,
-  Next.js, Svelte, Node.js), plus Java / Spring Boot
-- **Build a web app** from an idea, a prototype or an MVP to a product that holds up in
-  production, with iOS and Android apps when it needs them
-- **Take over an existing application**, AI-generated code included: a fixed-price assessment
-  first, then prioritised repairs, modernisation and maintenance
-- **Add AI to your product**: an assistant, search with sources, agents that act within the
-  limits you set, MCP servers so AI agents can use your product
-- **Technical consulting**: architecture and code reviews, tooling and AI choices, written
-  recommendations
+- Join your product team as a senior developer, in TypeScript across the stack or in Java /
+  Spring Boot
+- Build a web app from a prototype or an MVP to a product, with iOS and Android apps when needed
+- Take over an existing application, AI-generated code included: assessment, fixes, maintenance
+- Add AI to your product: an assistant, search with sources, agents, MCP servers
+- Technical consulting: architecture and code reviews, with written recommendations
 
-Services, terms and case studies: [jcode.works/freelance](https://jcode.works/freelance/) ·
-in French: [jcode.works/fr/freelance](https://jcode.works/fr/freelance/)
+## Recent work
 
-## Selected client work
+- Sciences Po (2025–26, via RECSI Group): Khartis V3, a complete rewrite of the thematic mapping
+  app designed by the Cartography Lab, which I developed (SvelteKit, DuckDB-WASM, WebGL), and
+  the technical side of the institutional design system (StencilJS Web Components)
+- Leadbay, Y Combinator F25 (2023–25): the whole frontend built from scratch, web and hybrid
+  mobile (React, Redux, Ionic, Cypress)
+- Every client project, with its stack and dates: [jcode.works/freelance](https://jcode.works/freelance/)
 
-- **Sciences Po** (2025–26, via RECSI Group): Khartis V3, a complete rewrite of the thematic mapping
-  app designed by the Cartography Lab, which I developed: millions of rows processed in the
-  browser (SvelteKit, DuckDB-WASM, WebGL); the institutional design system with the UX team,
-  alone on its technical side (StencilJS Web Components for React and Angular); the full-stack
-  foundation of a
-  confidential web application, built with another developer (Java 25, Spring Boot 4, MyBatis,
-  Oracle, Next.js 16, React 19).
-- **Leadbay**, Y Combinator F25 (2023–25): the complete frontend built from scratch, web and
-  hybrid iOS and Android app, with full technical autonomy for 21 months (React, Redux, Ionic,
-  Cypress).
-- **Sweez** (2023): the frontend of a real-time AI meeting assistant (React, Next.js, WebSocket,
-  GraphQL).
-- **HelloPrêt** (2023): full modernisation of a mortgage simulation platform (Astro, Svelte,
-  Strapi, PostgreSQL).
-- **Stellia.ai** (2022–23): a test-driven dashboard for AI document analysis (React, GraphQL,
-  Vitest, Cypress).
-- **Decathlon** (2022, via DPS Syneido): Svelte components for Vitamin, Decathlon's open-source
-  design system, three of them merged into its public repository in March 2022.
-- **Suzuki France** (2021–22, via DPS Syneido): the national website and the dealer-site
-  platform, frontend ownership and backend work in the team (React, Symfony, Twig).
+## Products
 
-## Products by jCode
-
-- **[WorkoutGen](https://workoutgen.app)**: a personalised workout generator I co-founded and
-  built as its sole technical owner, on the web, the App Store, Google Play and the Microsoft
-  Store: 51,000+ members and 9 languages (workoutgen.app, October 2026). Its program engine is
-  deterministic, validated by a state-certified coach, and its coach adjusts volume and rest
-  after each finished session from objective signals, with no generative model. React 19, Hono
-  on Cloudflare Workers, D1, Capacitor.
-- **[Ragmir](https://ragmir.com)**: an open-source (AGPL-3.0) TypeScript library, CLI and MCP
-  server that gives coding agents such as Claude Code and Codex cited context from a project's
-  code and documents, local by default.
+- [WorkoutGen](https://workoutgen.app): a personalised workout generator I co-founded and built,
+  51,000+ members in 9 languages (October 2026). React 19, Hono on Cloudflare Workers, Capacitor.
+- [Ragmir](https://ragmir.com): an open-source TypeScript library, CLI and MCP server that gives
+  coding agents cited context from a project's code and documents, local by default.
   [Source](https://github.com/jcode-works/jcode-ragmir) ·
   [npm](https://www.npmjs.com/package/@jcode.labs/ragmir)
-
-My open-source work is published through [jCode](https://github.com/jcode-works), my company's
-GitHub organisation.
 
 ## How I use AI
 
 My engineering habits (architecture, tests, code review, careful releases) were formed before AI
-coding tools. Today I practise agentic engineering: I use coding agents such as Claude Code and
-Codex within each client's rules, with project instructions and cited context from a Ragmir
-knowledge base. I keep the architecture decisions, and every change is reviewed and tested before
-delivery. My method and my rules for AI tools on client code:
-[jcode.works/agentic-development](https://jcode.works/agentic-development/).
+coding tools. Today I use coding agents such as Claude Code and Codex within each client's rules:
+I keep the architecture decisions, and every change is reviewed and tested before delivery.
+[My method and rules](https://jcode.works/agentic-development/)
 
 ## Stack
 
-**Frontend:** TypeScript · React · Next.js · Svelte / SvelteKit · Astro · Tailwind CSS ·
-Storybook · Web Components
+TypeScript · React · Next.js · Svelte · Astro · Node.js · Hono · PostgreSQL · Cloudflare Workers ·
+Java / Spring Boot · Docker · GitHub Actions · Vitest · Cypress · LLM integration · RAG · MCP
 
-**Backend and data:** Node.js · Hono · Java / Spring Boot · Symfony · PostgreSQL · Oracle ·
-Drizzle ORM · REST · GraphQL
-
-**Cloud and delivery:** Cloudflare Workers · Docker · GitHub Actions · GitLab CI/CD
-
-**Quality:** Vitest · Cypress · Biome · automated tests and code review
-
-**AI:** Claude Code · Codex · Cursor · MCP · RAG · LLM integration · AI agents
-
-## Work with me
-
-Open to new freelance engagements, fully remote, in English or French, through EURL jCode,
-registered in Paris.
-
-[jcode.works](https://jcode.works) ·
-[LinkedIn](https://www.linkedin.com/in/jean-baptiste-thery) ·
+Fully remote, in English or French, through EURL jCode, registered in Paris ·
+[jcode.works](https://jcode.works) · [LinkedIn](https://www.linkedin.com/in/jean-baptiste-thery) ·
 [Malt](https://www.malt.fr/profile/jeanbaptistethery)
