@@ -1,8 +1,8 @@
 # Jean-Baptiste Thery
 
 **Senior full-stack TypeScript freelance developer** · 10 years of experience · web and mobile
-applications with AI features (LLM integration, agents, RAG, MCP) · agentic engineering ·
-fully remote · open to new engagements · [jcode.works](https://jcode.works)
+applications with AI features (LLM integration, agents, RAG, MCP) · fully remote · open to new
+engagements · [jcode.works](https://jcode.works)
 
 I build, take over and improve web and mobile applications for product teams, from the first
 scope to production. TypeScript is my main language, frontend and backend. Ten years of experience
@@ -95,7 +95,7 @@ Drizzle ORM · REST · GraphQL
 
 **Quality:** Vitest · Cypress · Biome · automated tests and code review
 
-**AI:** Agentic engineering · Claude Code · Codex · Cursor · MCP · RAG · LLM integration
+**AI:** Claude Code · Codex · Cursor · MCP · RAG · LLM integration · AI agents
 
 ## Work with me
 
