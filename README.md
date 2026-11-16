@@ -38,7 +38,7 @@ out of 5 (November 2026).
   51,000+ members in 9 languages (October 2026). React 19, Hono on Cloudflare Workers, Capacitor.
 - [Ragmir](https://ragmir.com): an open-source TypeScript library, CLI and MCP server that gives
   coding agents cited context from a project's code and documents, local by default.
-  [Source](https://github.com/jcode-works/jcode-ragmir) ·
+  [Source](https://github.com/jcode-works/ragmir) ·
   [npm](https://www.npmjs.com/package/@jcode.labs/ragmir)
 
 ## How I use AI
