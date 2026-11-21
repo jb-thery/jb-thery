@@ -1,7 +1,7 @@
 # Jean-Baptiste Thery
 
 **Senior full-stack TypeScript freelance developer** · 10 years of experience · web and mobile
-applications with AI features (LLM integration, agents, RAG, MCP) · fully remote · open to new
+applications with AI features (agents, RAG, MCP) · fully remote · open to new
 engagements · [jcode.works](https://jcode.works)
 
 I build, take over and improve web and mobile applications for product teams, from the first
@@ -51,7 +51,7 @@ I keep the architecture decisions, and every change is reviewed and tested befor
 ## Stack
 
 TypeScript · React · Next.js · Svelte · Astro · Node.js · Hono · PostgreSQL · Cloudflare Workers ·
-Java / Spring Boot · Docker · GitHub Actions · Vitest · Cypress · LLM integration · RAG · MCP
+Java / Spring Boot · Docker · GitHub Actions · Vitest · Cypress · RAG · MCP
 
 Fully remote, in English or French, through EURL jCode, registered in Paris ·
 [jcode.works](https://jcode.works) · [LinkedIn](https://www.linkedin.com/in/jean-baptiste-thery) ·
